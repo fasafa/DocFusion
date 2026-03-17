@@ -188,3 +188,9 @@ This can be extended to ML-based models.
 This project demonstrates a **production-ready document processing system**, combining OCR, structured data extraction, anomaly detection, and a user-friendly interface.
 
 It is designed with scalability, modularity, and real-world applicability in mind.
+
+
+
+---
+
+<img width="1381" height="739" alt="Image" src="https://github.com/user-attachments/assets/4f34ddc4-e1b7-480b-b8a8-88b980acb9c7" />
